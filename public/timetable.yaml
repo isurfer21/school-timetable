@@ -1,0 +1,216 @@
+class_name: Class 1 Purple
+time_slots:
+  Yoga: 8:30-8:50
+  Assembly: 8:55-9:05
+  P1: 9:10-9:40
+  P2: 9:45-10:15
+  P3: 10:20-10:50
+  LUNCH: 10:50-11:20
+  P4: 11:20-11:50
+  P5: 11:55-12:25
+schedule:
+  MONDAY:
+    Yoga:
+      subject: Yoga
+      teacher: CT
+      classroom_code: null
+      meet_link: https://meet.google.com/qwt-domp-jgg
+    Assembly:
+      subject: Assembly
+      teacher: Priyanka Srivastava
+      classroom_code: null
+      meet_link: https://meet.google.com/xka-nkke-fjd
+    P1:
+      subject: EVS
+      teacher: Priyanka Srivastava
+      classroom_code: i4bo4yhf
+      meet_link: https://meet.google.com/eau-pdvw-agk
+    P2:
+      subject: English
+      teacher: Priyanka Srivastava
+      classroom_code: nvkcbr43
+      meet_link: https://meet.google.com/xka-nkke-fid
+    P3:
+      subject: PER. & VISUAL ARTS Instrumental.
+      teacher: Ms Anuradha
+      classroom_code: null
+      meet_link: https://meet.google.com/ogu-ikdw-off
+    LUNCH:
+      subject: LUNCH BREAK
+      teacher: null
+      classroom_code: null
+      meet_link: null
+    P4:
+      subject: Math
+      teacher: Priyanka Srivastava
+      classroom_code: fde2dds7
+      meet_link: https://meet.google.com/kvd-gqff-hxv
+    P5:
+      subject: HINDI
+      teacher: Ms. Madhu Tyagi
+      classroom_code: ruqv5ejb
+      meet_link: https://meet.google.com/uut-jdrc-zmm
+  TUESDAY:
+    Yoga:
+      subject: Yoga
+      teacher: CT
+      classroom_code: null
+      meet_link: https://meet.google.com/qwt-domp-jgg
+    Assembly:
+      subject: Assembly
+      teacher: Priyanka Srivastava
+      classroom_code: null
+      meet_link: https://meet.google.com/xka-nkke-fjd
+    P1:
+      subject: English
+      teacher: Priyanka Srivastava
+      classroom_code: nvkcbr43
+      meet_link: https://meet.google.com/xka-nkke-fid
+    P2:
+      subject: Hindi
+      teacher: Ms. Madhu Tyagi
+      classroom_code: ruqv5ejb
+      meet_link: https://meet.google.com/uut-jdrc-zmm
+    P3:
+      subject: Math
+      teacher: Priyanka Srivastava
+      classroom_code: fde2dds7
+      meet_link: https://meet.google.com/kvd-gqff-hxv
+    LUNCH:
+      subject: LUNCH BREAK
+      teacher: null
+      classroom_code: null
+      meet_link: null
+    P4:
+      subject: EVS
+      teacher: Priyanka Srivastava
+      classroom_code: i4bo4yhf
+      meet_link: https://meet.google.com/eau-pdvw-agk
+    P5:
+      subject: LitSpace
+      teacher: Priyanka Srivastava
+      classroom_code: nvkcbr43
+      meet_link: https://meet.google.com/xka-nkke-fjd
+  WEDNESDAY:
+    Yoga:
+      subject: Yoga
+      teacher: CT
+      classroom_code: null
+      meet_link: https://meet.google.com/qwt-domp-jgg
+    Assembly:
+      subject: Assembly
+      teacher: Priyanka Srivastava
+      classroom_code: null
+      meet_link: https://meet.google.com/xka-nkke-fjd
+    P1:
+      subject: Hindi
+      teacher: PRIYANKA SRIVASTAVA
+      classroom_code: null
+      meet_link: https://meet.google.com/eau-pdvw-agk
+    P2:
+      subject: EVS
+      teacher: Priyanka Srivastava
+      classroom_code: i4bo4yhf
+      meet_link: https://meet.google.com/kvd-gaff-hxv
+    P3:
+      subject: Math
+      teacher: Priyanka Srivastava
+      classroom_code: fde2dds7
+      meet_link: https://meet.google.com/xka-nkke-fjd
+    LUNCH:
+      subject: LUNCH BREAK
+      teacher: null
+      classroom_code: null
+      meet_link: null
+    P4:
+      subject: Hindi
+      teacher: Ms. Madhu Tyagi
+      classroom_code: ruqv5ejb
+      meet_link: https://meet.google.com/uut-jdrc-zmm
+    P5:
+      subject: PER. & VISUAL ARTS INSTRUMENTAL
+      teacher: Mr. Kunwardeep Singh
+      classroom_code: null
+      meet_link: https://meet.google.com/nhs-ohvf-cvt
+  THURSDAY:
+    Yoga:
+      subject: Yoga
+      teacher: CT
+      classroom_code: null
+      meet_link: https://meet.google.com/qwt-domp-jgg
+    Assembly:
+      subject: Assembly
+      teacher: Priyanka Srivastava
+      classroom_code: null
+      meet_link: https://meet.google.com/xka-nkke-fjd
+    P1:
+      subject: Hindi
+      teacher: Ms. Madhu Tyagi
+      classroom_code: ruqv5ejb
+      meet_link: https://meet.google.com/uut-jdrc-zmm
+    P2:
+      subject: VISUAL LITERACY
+      teacher: Ms. Poonam Bharadwaj
+      classroom_code: b2kwnjwc
+      meet_link: https://meet.google.com/smv-hdun-ajo
+    P3:
+      subject: English
+      teacher: Priyanka Srivastava
+      classroom_code: nvkcbr43
+      meet_link: https://meet.google.com/xka-nkke-fjd
+    LUNCH:
+      subject: LUNCH BREAK
+      teacher: null
+      classroom_code: null
+      meet_link: null
+    P4:
+      subject: Math
+      teacher: Priyanka Srivastava
+      classroom_code: fde2dds7
+      meet_link: https://meet.google.com/kvd-gaff-hxv
+    P5:
+      subject: EVS
+      teacher: Priyanka Srivastava
+      classroom_code: 14bo4yhf
+      meet_link: https://meet.google.com/eau-pdvw-agk
+  FRIDAY:
+    Yoga:
+      subject: Yoga
+      teacher: CT
+      classroom_code: null
+      meet_link: https://meet.google.com/qwt-domp-jgg
+    Assembly:
+      subject: Assembly
+      teacher: Priyanka Srivastava
+      classroom_code: null
+      meet_link: https://meet.google.com/xka-nkke-fjd
+    P1:
+      subject: Math
+      teacher: Priyanka Srivastava
+      classroom_code: fde2dds7
+      meet_link: https://meet.google.com/kvd-gaff-hxv
+    P2:
+      subject: English
+      teacher: Priyanka Srivastava
+      classroom_code: nvkcbr43
+      meet_link: https://meet.google.com/xka-nkke-fid
+    P3:
+      subject: ICT
+      teacher: Ms Astha
+      classroom_code: vr5w2myx
+      meet_link: https://meet.google.com/ded-ywps-jnd
+    LUNCH:
+      subject: LUNCH BREAK
+      teacher: null
+      classroom_code: null
+      meet_link: null
+    P4:
+      subject: EVS
+      teacher: Priyanka Srivastava
+      classroom_code: i4bo4yhf
+      meet_link: https://meet.google.com/eau-pdvw-agk
+    P5:
+      subject: Hindi
+      teacher: Ms. Madhu Tyagi
+      classroom_code: ruqv5ejb
+      meet_link: https://meet.google.com/uut-jdrc-zmm
